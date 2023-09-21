@@ -1,0 +1,10 @@
+## install whatever dependency
+
+npm install {packages}
+
+## execute node project
+node {file}
+
+
+## run from script
+node start
